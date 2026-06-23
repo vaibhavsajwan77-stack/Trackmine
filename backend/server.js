@@ -20,7 +20,7 @@ app.use(express.json());
 /* ✅ FIXED CORS (typos removed) */
 const allowedOrigins = [
   "http://localhost:5173",
-  "https://trackmine1.vercel.app"
+  "https://trackmine12.vercel.app"
 ];
 
 app.use(cors({
